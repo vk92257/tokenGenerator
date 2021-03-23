@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "agora-access-token": "^2.0.4",
+    "express": "^4.17.1"
+  },
+  "name": "node_token",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Rahul",
+  "license": "ISC",
+  "description": ""
+}
